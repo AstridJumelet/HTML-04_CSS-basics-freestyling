@@ -1,0 +1,39 @@
+body{
+    color:rgba(0, 89, 255, 0.726);
+    font-family: Comic sans ms, cursive, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1.6em;
+}
+h2{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration-line:underline;
+    text-decoration-style: dashed;
+}
+.darkblue-border{
+    border: 3px solid rgb(29, 6, 240);
+}   
+#lightblue-blokje{
+    background-color:rgba(71, 231, 231, 0.253);
+    color: magenta;
+}
+footer{
+    font-size: 12px;
+}
+ul.menu{
+    padding: 20px;
+    list-style: none; 
+}
+ul.menu li{
+    display: inline;
+}
+ul.menu li a {
+    margin: 10px;
+    text-decoration: none;
+}
+.loveit-lijstje{
+    line-height: 1.5em;
+    list-style-type: square;
+        }
+}
